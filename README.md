@@ -8,3 +8,7 @@ Menu:
 Game:
  
 ![Game](https://user-images.githubusercontent.com/102318014/176167464-af716cb9-07d2-477d-bc5e-80f5ae1cc203.png)
+
+Checkmate
+
+![Checkmate](https://user-images.githubusercontent.com/102318014/176168357-cd45f0ca-409a-414c-ac01-7dc3f7a06d05.png)
